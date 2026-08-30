@@ -1,0 +1,21 @@
+{
+  "name": "@quitegoodproject/spec",
+  "version": "2.6.0",
+  "description": "Canonical Developer Primitives Wire Specification & Metadata Envelopes (RFC-2601).",
+  "main": "spec/qgp-spec.json",
+  "type": "module",
+  "keywords": [
+    "quitegoodproject",
+    "rfc-2601",
+    "developer-primitives",
+    "wire-spec",
+    "ai-agents"
+  ],
+  "author": "The Quite Good Project <engineering@quitegoodproject.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quitegoodproject/quitegoodproject"
+  },
+  "homepage": "https://quitegoodproject.com"
+}
