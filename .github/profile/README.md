@@ -1,6 +1,6 @@
 # 🏛️ The Quite Good Project (`quitegoodproject.com`)
 
-> **Independent Software Studio & Developer Primitives**  
+> **Low-Latency Developer APIs & MCP Tools**  
 > Clean code. Predictable SLAs. Zero marketing hype.
 
 [![Specification: RFC-2601](https://img.shields.io/badge/Specification-RFC--2601-09090b.svg)](https://quitegoodproject.com)
@@ -15,7 +15,7 @@ High-performance, deterministic developer tools engineered for autonomous AI age
 | Primitive | Focus & Protocol | Latency / Savings | 1-Click Installation |
 | :--- | :--- | :---: | :--- |
 | **[TokenMarkdown](https://github.com/quitegoodproject/tokenmarkdown)** | Sub-150ms Web-to-AST Markdown for LLM Context | **⚡ 148ms (95% Context Compression)** | `npx -y tokenmarkdown-mcp` |
-| **[TokenEnrich](https://github.com/quitegoodproject/tokenenrich)** | Sub-140ms ~180-Token Firmographics & Mailbox Checks | **⚡ 138ms (~180 Tokens)** | `npx -y @quitegoodproject/tokenenrich-mcp` |
+| **[TokenEnrich](https://github.com/quitegoodproject/tokenenrich)** | Sub-140ms ~180-Token Firmographics & Mailbox Checks | **⚡ 138ms (~180 Tokens)** | `npx -y tokenenrich-mcp` |
 | **[LMCProtocol](https://github.com/quitegoodproject/lmcprotocol)** | Sub-Second Local Business Telemetry & Marketing Flaws | **⚡ 140ms (~210 Tokens, OBDS-2026)** | `npx -y lmcprotocol` |
 | **[TokenVerify](https://github.com/quitegoodproject/tokenverify)** | Edge VAT/Tax Checksums & Disposable Email Blacklist | **⚡ <50ms (ISO 7064 Checksums)** | `npx -y @quitegoodproject/tokenverify-mcp` |
 | **[SubCent402](https://github.com/quitegoodproject/subcent402)** | Universal M2M Micro-Billing & MCP Paywall Standard | **⚡ <0.2ms Settlement (L402 / Base USDC)** | `npm install @quitegoodproject/subcent402` |

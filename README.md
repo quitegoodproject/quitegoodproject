@@ -1,6 +1,6 @@
 # 🏛️ The Quite Good Project (`quitegoodproject.com`)
 
-> **Independent Software Studio & Developer Primitives**  
+> **Low-Latency Developer APIs & MCP Tools**  
 > Clean code. Predictable SLAs. Zero marketing hype.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -13,7 +13,7 @@
 | Tool | Focus | Public Package |
 | :--- | :--- | :--- |
 | **TokenMarkdown** | Sub-150ms Web-to-AST Markdown for LLM Context | `npx -y tokenmarkdown-mcp` |
-| **TokenEnrich** | ~180-Token Firmographics & Mailbox Verification | `npx -y @quitegoodproject/tokenenrich-mcp` |
+| **TokenEnrich** | ~180-Token Firmographics & Mailbox Verification | `npx -y tokenenrich-mcp` |
 | **LMCProtocol** | ~210-Token Local Business Telemetry (OBDS-2026) | `npx -y lmcprotocol` |
 | **TokenVerify** | Sub-50ms Edge VAT & Anti-Fraud Gateway | `npx -y @quitegoodproject/tokenverify-mcp` |
 | **SubCent402** | M2M HTTP 402 & Base USDC Micro-Billing | `npm install @quitegoodproject/subcent402` |
