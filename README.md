@@ -1,6 +1,6 @@
 # 🏛️ The Quite Good Project (`quitegoodproject.com`)
 
-> **Independent Software Studio & Sovereign Developer Primitives**  
+> **Independent Software Studio & Developer Primitives**  
 > Clean code. Predictable SLAs. Zero marketing hype.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)

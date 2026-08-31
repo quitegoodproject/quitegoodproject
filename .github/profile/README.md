@@ -1,6 +1,6 @@
 # 🏛️ The Quite Good Project (`quitegoodproject.com`)
 
-> **Independent Software Studio & Sovereign Developer Primitives**  
+> **Independent Software Studio & Developer Primitives**  
 > Clean code. Predictable SLAs. Zero marketing hype.
 
 [![Specification: RFC-2601](https://img.shields.io/badge/Specification-RFC--2601-09090b.svg)](https://quitegoodproject.com)
@@ -8,7 +8,7 @@
 
 ---
 
-## ⚡ The Sovereign Primitives Suite
+## ⚡ The Developer Primitives Suite
 
 High-performance, deterministic developer tools engineered for autonomous AI agents, context window compression, and automated data pipelines.
 
