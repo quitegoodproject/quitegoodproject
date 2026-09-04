@@ -1,0 +1,51 @@
+{
+  "name": "The Quite Good Project",
+  "version": "2.6.0",
+  "standard": "RFC-2601",
+  "tagline": "Low-Latency Developer APIs & MCP Tools",
+  "url": "https://quitegoodproject.com",
+  "primitives": [
+    {
+      "id": "tokenmarkdown",
+      "name": "TokenMarkdown",
+      "url": "https://tokenmarkdown.com",
+      "mcp": "@quitegoodproject/tokenmarkdown-mcp"
+    },
+    {
+      "id": "tokenenrich",
+      "name": "TokenEnrich",
+      "url": "https://tokenenrich.com",
+      "mcp": "@quitegoodproject/tokenenrich-mcp"
+    },
+    {
+      "id": "lmcprotocol",
+      "name": "LMCProtocol",
+      "url": "https://lmcprotocol.com",
+      "mcp": "@quitegoodproject/lmcprotocol"
+    },
+    {
+      "id": "tokenverify",
+      "name": "TokenVerify",
+      "url": "https://tokenverify.com",
+      "mcp": "@quitegoodproject/tokenverify-mcp"
+    },
+    {
+      "id": "subcent402",
+      "name": "SubCent402",
+      "url": "https://subcent402.com",
+      "sdk": "@quitegoodproject/subcent402"
+    },
+    {
+      "id": "navre",
+      "name": "NAVRE",
+      "url": "https://navre.ai",
+      "sdk": "@quitegoodproject/navre-sdk"
+    },
+    {
+      "id": "landscope",
+      "name": "LandScope",
+      "url": "https://landscopeapi.com",
+      "sdk": "@quitegoodproject/landscope-sdk"
+    }
+  ]
+}
